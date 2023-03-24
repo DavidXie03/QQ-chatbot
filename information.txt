@@ -1,0 +1,12 @@
+--qq_no--
+12345678
+--openai_email--
+12345678@qq.com
+--openai_password--
+abcdefgh
+--openai.api_key--
+sk-12345678abcdefgh
+--maxRound--
+3
+--maxLength--
+150
