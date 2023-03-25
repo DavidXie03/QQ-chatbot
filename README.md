@@ -11,7 +11,7 @@
 * 一个OpenAI账号以及对应的API Key
 
 ### 部署过程
-1. 修改`go-cqhttp/config.yml`中的QQ号
+1. 修改`go-cqhttp/config.yml`中的QQ号，注意不用填写密码
 2. 修改`information.txt`中的QQ号、OpenAI账号、密码及API Key
 3. 修改`information.txt`中的最大记忆轮数`maxRound`和最大记忆回复字数`maxLength`（可选）
 
