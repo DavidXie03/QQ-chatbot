@@ -26,5 +26,5 @@ pyinstaller -F main.py
 ```
 
 ### 参考项目
-* go-cqhttp(https://github.com/Mrs4s/go-cqhttp)
-* Qbot(https://github.com/zstar1003/Qbot)
+* [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+* [Qbot](https://github.com/zstar1003/Qbot)
