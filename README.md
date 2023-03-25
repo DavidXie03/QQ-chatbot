@@ -2,7 +2,7 @@
 
 ### 介绍
 基于ChatGPT和go-cqhttp的QQ聊天机器人，具有以下优点：
-* 部署简易
+* 部署简易，无需配置编程环境
 * 支持长对话记忆功能，可自定义记忆轮数和字数
 
 ### 前置准备
@@ -26,4 +26,5 @@ pyinstaller -F main.py
 ```
 
 ### 参考项目
-Qbot(https://github.com/zstar1003/Qbot)
+* go-cqhttp(https://github.com/Mrs4s/go-cqhttp)
+* Qbot(https://github.com/zstar1003/Qbot)
